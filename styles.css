@@ -1,0 +1,143 @@
+body {
+    padding: 100px;
+    background-color: whitesmoke;
+}
+
+aside {
+    width: auto;
+    height: 560;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 350px;
+    margin-top: 5px;
+    background-color: whitesmoke;
+    padding-bottom: 100px;
+}
+
+aside img {
+    height: 250px;
+    width: 350px;
+    border-radius: 10px;
+}
+
+.card {
+    height: 300px;
+    width: 300px;
+    /* border: 1px solid rgb(180, 178, 178); */
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+
+aside h3 {
+    margin: 10px;
+    text-align: center;
+}
+
+aside p {
+    text-align: center;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.izzy :hover {
+    color: #ea491d;
+}
+
+aside :hover {
+    color: #ea491d;
+    background-color: rgb(238, 238, 238);
+}
+
+.card1 {
+    /* width: auto; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 550px;
+    background-color: whitesmoke;
+}
+
+.card1 img {
+    height: 305px;
+    width: 450px;
+    border-radius: 10px;
+}
+
+.card2 button {
+    width: 100px;
+    border-radius: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 0;
+    color: blue;
+    border: 1px solid blue;
+    height: 40px;
+    float: right;
+}
+
+.card {
+    color: gray;
+    display: inline-block;
+    padding: 15px;
+}
+
+.card {
+    color: gray;
+    display: inline-block;
+}
+
+.card1 li {
+    color: gray;
+    display: inline-block;
+    padding: 15px;
+}
+
+.card button {
+    width: 100px;
+    border-radius: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 0;
+    color: blue;
+    border: 1px solid blue;
+    height: 40px;
+}
+
+.card2 {
+    height: 310px;
+    padding: px;
+    width: 450px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+
+/* section{
+
+} */
+.search input {
+    width: 30%;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.search p {
+    font-weight: bolder;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.search h3 {
+    margin-top: 50px;
+}
+
+.para2 {
+    margin-top: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
